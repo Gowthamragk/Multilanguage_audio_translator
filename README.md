@@ -25,8 +25,8 @@ Run the main script, dubbing_automation.py, and follow the prompts to input the 
 Monitor the progress of the dubbing process and provide feedback when prompted for adaptive learning.
 
 
-### This project take video as input,thus particular input seperate into video and audio . 
-### This audio is split into smaller chunks and then translate into different languague
-### At the end of the program translated chunks are merged into single audio
-### The final output of the program video with translated audio
+#### This project take video as input,thus particular input seperate into video and audio . 
+#### This audio is split into smaller chunks and then translate into different languague
+#### At the end of the program translated chunks are merged into single audio
+#### The final output of the program video with translated audio
 [README.md](https://github.com/Gowthamragk/Polyglot-Dubbing-Engine/files/14850294/README.md)
